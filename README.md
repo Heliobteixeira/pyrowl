@@ -1,8 +1,6 @@
 Pynma
 ======
 
-Pynma is a simple python module for the [NotifyMyAndroid][nma] [API][NMA API].
-
 [nma]: http://www.notifymyandroid.com/
 [NMA API]: http://www.notifymyandroid.com/api.jsp
 
